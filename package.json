@@ -1,0 +1,25 @@
+{
+  "name": "lifecoding-redux-master",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "redux"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rl0425/lifecoding-redux.git"
+  },
+  "keywords": [
+    "redux"
+  ],
+  "author": "gichan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rl0425/lifecoding-redux/issues"
+  },
+  "homepage": "https://github.com/rl0425/lifecoding-redux#readme",
+  "dependencies": {
+    "redux": "^4.0.5"
+  }
+}
